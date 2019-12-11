@@ -1,1 +1,0 @@
-{"version":3,"sources":["C:\\projects\\react_people-table/src\\App.scss"],"names":[],"mappings":"AAAA,KACE,4BAA8B,CAI9B,wBACE,4BAA6B,CAG/B,iBACE,WAAY","file":"main.3d8d334d.chunk.css","sourcesContent":["html {\n  font-family: Arial, sans-serif;\n}\n\n.person {\n  &__bornBefore1650 {\n    text-decoration: line-through;\n  }\n\n  &__after65 {\n    color: green;\n  }\n}\n"]}

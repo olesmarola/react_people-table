@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_people-table/static/css/main.1d430471.chunk.css",
+    "main.css": "/react_people-table/static/css/main.dc6b6f49.chunk.css",
     "main.js": "/react_people-table/static/js/main.a2428cdf.chunk.js",
     "main.js.map": "/react_people-table/static/js/main.a2428cdf.chunk.js.map",
     "runtime~main.js": "/react_people-table/static/js/runtime~main.b2b73302.js",
@@ -8,8 +8,8 @@
     "static/js/2.f66401a1.chunk.js": "/react_people-table/static/js/2.f66401a1.chunk.js",
     "static/js/2.f66401a1.chunk.js.map": "/react_people-table/static/js/2.f66401a1.chunk.js.map",
     "index.html": "/react_people-table/index.html",
-    "precache-manifest.90842183b91c3e34b95661c7ec3a207a.js": "/react_people-table/precache-manifest.90842183b91c3e34b95661c7ec3a207a.js",
+    "precache-manifest.4cccd5f36baaa5cc324f710d4f1d6637.js": "/react_people-table/precache-manifest.4cccd5f36baaa5cc324f710d4f1d6637.js",
     "service-worker.js": "/react_people-table/service-worker.js",
-    "static/css/main.1d430471.chunk.css.map": "/react_people-table/static/css/main.1d430471.chunk.css.map"
+    "static/css/main.dc6b6f49.chunk.css.map": "/react_people-table/static/css/main.dc6b6f49.chunk.css.map"
   }
 }
